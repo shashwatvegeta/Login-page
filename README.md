@@ -1,1 +1,1 @@
-# Basic login-page of a school management system.
+# Login-page of a school management system.
